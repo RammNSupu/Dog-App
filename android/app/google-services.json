@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023070068550",
+    "project_id": "final-authentication-832dc",
+    "storage_bucket": "final-authentication-832dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023070068550:android:c188f96ff0b8cc3d1a0f47",
+        "android_client_info": {
+          "package_name": "com.example.app_for_pet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPrwW9I2cbKdzVr-LBnMf7zXIrR3Z0Ct0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
